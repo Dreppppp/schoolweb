@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/schoolwev', // назва репозиторію
+  basePath: '/schoolweb', 
+  assetPrefix: '/schoolwev/',
 };
+
 module.exports = nextConfig;
