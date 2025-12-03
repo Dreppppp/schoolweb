@@ -40,7 +40,7 @@ export default function Navbar({ scrollToAbout, scrollToNews, scrollToLocation }
             </h1>
           </div>
 
-          <ul className="hidden md:flex items-center gap-6 font-normal text-[20px]">
+          <ul className="hidden md:flex items-center gap-6 font-normal text-5">
             {menuItems.map((item, i) => (
               <li
                 key={i}
