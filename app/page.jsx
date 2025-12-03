@@ -1,5 +1,6 @@
 "use client";
 
+import "./globals.css";
 import { useRef } from "react";
 import Navbar from "@/components/menu";
 import Header from "@/components/header";
