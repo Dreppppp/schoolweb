@@ -2,6 +2,6 @@
 2:I[1572,["/schoolwev/_next/static/chunks/b64367606a47a0e4.js","/schoolwev/_next/static/chunks/1e0adbdc4b0fbdcf.js"],"ViewportBoundary"]
 4:I[1572,["/schoolwev/_next/static/chunks/b64367606a47a0e4.js","/schoolwev/_next/static/chunks/1e0adbdc4b0fbdcf.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"ucq48x4dSfxVg_WV3a-4J","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+0:{"buildId":"OpxMjo7Jax78ijffosoT1","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"Школа"}]]

@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/schoolwev//_next/:path+",
+        "destination": "/schoolweb/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
