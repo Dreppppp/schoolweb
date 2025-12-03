@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "components/location.jsx", "components/recentevents.jsx", "app/page.jsx", "components/menu.jsx", "components/about.jsx", "components/slider.jsx", "components/header.jsx"  ],
   "exclude": ["node_modules"]
 }
