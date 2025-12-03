@@ -3,7 +3,7 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/schoolwev//_next/:path+",
+        "source": "/schoolweb//_next/:path+",
         "destination": "/schoolweb/_next/:path+"
       }
     ],
